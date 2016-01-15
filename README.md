@@ -1,0 +1,2 @@
+# Small Node Docker Container (with Phantom, Bower, Babel, Gulp)
+There's really not that much more to say - for more information, consult the `Dockerfile` as well as the official documentation on [DockerHub](https://hub.docker.com/_/node/).
